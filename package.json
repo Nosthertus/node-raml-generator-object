@@ -1,0 +1,30 @@
+{
+  "name": "node-raml-generator-object",
+  "version": "0.1.0",
+  "description": "Object generator for raml-generator",
+  "main": "lib/Raml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosthertus/node-raml-generator-object.git"
+  },
+  "keywords": [
+    "raml",
+    "case",
+    "generator",
+    "raml-generator"
+  ],
+  "author": "Oscar Reyes <nosthertus@gmail.com> (https://github.com/nosthertus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nosthertus/node-raml-generator-object/issues"
+  },
+  "homepage": "https://github.com/Nosthertus/node-raml-generator-object#readme",
+  "dependencies": {
+    "deasync": "^0.1.8",
+    "raml-parser": "^0.8.18",
+    "utils-pkg": "^0.12.1"
+  }
+}
